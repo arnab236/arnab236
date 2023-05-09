@@ -10,6 +10,8 @@ I am a competitive coder and an aspiring front end developer from India
 * ✉️  You can contact me at [arnabsarkar236@gmail.com](mailto:arnabsarkar236@gmail.com)
 * 🧠  I'm learning DSA in C++ and front end development using React
 
+<img src = "coding-gif.gif" alt="coding" align = "right">
+
 ### Skills
 
 

@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 <img src ="arnab-sarkar-cover.png" alt = "Arnab Sarkar Cover">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab236&label=Profile%20views&color=0e75b6&style=flat" alt="arnab236" /> </p>
 
 I am a competitive coder and an aspiring front end developer from India
 -----------------------------------------------------------------------

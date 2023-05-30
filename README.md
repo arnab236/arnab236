@@ -1,7 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnab Sarkar
 ====================================================================================================================================
 
-<video src= "https://github.com/arnab236/arnab236/blob/main/20230530_1320111.mp4">
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 
 I am a competitive coder and an aspiring front end developer from India

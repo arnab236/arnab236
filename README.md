@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Arnab Sarkar</h1>
 <h3 align="center">Journey to be more efficient</h3>
+<img src="loop-banner.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab236&label=Profile%20views&color=0e75b6&style=flat" alt="arnab236" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab236&theme=darkhub" alt="arnab236" /></a> </p>
@@ -9,6 +10,8 @@
 - 💬 Ask me about **Tailwind, SQL, C++ and MongoDB**
 - 📫 How to reach me **arnabsarkar236@gmail.com**
 - ⚡ Fun fact **Hue Hue Hue**
+  
+<img src = "coding-gif.gif" alt="coding" align = "right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
